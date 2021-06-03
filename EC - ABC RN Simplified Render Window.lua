@@ -1,5 +1,5 @@
-local Netia_Syd = "\\\\nucprdaapp02\\WAV_INGEST"
-local Netia_Melb = "\\\\vscprdaapp02\\WAV_INGEST"
+local Netia_Syd = 
+local Netia_Melb = 
 
 ------------------------------------
 ------- MP3 Settings Go Here -------
