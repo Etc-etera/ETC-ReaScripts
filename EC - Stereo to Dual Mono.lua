@@ -36,4 +36,4 @@ elseif ripp_one == 1 then
 end
 
 reaper.UpdateArrange()
-reaper.Undo_EndBlock("Split or Mix to Mono",0)
+reaper.Undo_EndBlock("Split stereo to dual mono",0)
